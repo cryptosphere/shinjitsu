@@ -1,4 +1,5 @@
 # Shinjitsu
+[![Build Status](https://travis-ci.org/cryptosphere/shinjitsu.svg?branch=master)](https://travis-ci.org/cryptosphere/shinjitsu)
 
 Verifiable authenticity for Ruby object attributes.
 
